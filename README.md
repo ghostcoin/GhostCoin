@@ -1,0 +1,4 @@
+GhostCoin
+=========
+
+GhostCoin
